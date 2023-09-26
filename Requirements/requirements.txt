@@ -1,0 +1,8 @@
+pandas,
+numpy,
+seaborn,
+OpenCV,
+split-folder,
+sk-learn,
+TensorFlow,
+Keras.
